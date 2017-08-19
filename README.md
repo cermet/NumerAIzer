@@ -9,10 +9,9 @@ NumerAIzer is a collection of Python scripts for testing and refining various an
 - [x] (**0.1**) Script for importing and preparing data for cross validation
 
 - [ ] (**0.2**) Implement the first three methodologies:
-
-> * Logistic regression
-> * Support Vector Machine (SVM)
-> * XGBoost
+     * Logistic regression
+     * Support Vector Machine (SVM)
+     * XGBoost
 
 - [ ] (**0.3**) Implement parameter selection scripts. 
 
